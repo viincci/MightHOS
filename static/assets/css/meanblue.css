@@ -6562,3 +6562,33 @@ aside.promo-banner.blue-promo-banner>div {
 .gatsby-image-wrapper [data-placeholder-image] {
     opacity: 0 !important
 }
+/* Default styles */
+.coverb {
+  font-size: 24px;
+}
+
+/* Styles for screens smaller than 768px */
+@media screen and (max-width: 767px) {
+  .coverb {
+    font-size: 18px;
+  }
+}
+/* Default styles */
+
+/* Styles for screens smaller than 768px */
+@media screen and (max-width: 767px) {
+  .section-title span {
+    position: absolute;
+    top: 30px;
+    color: #8995f0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+    line-height: 0;
+    padding-bottom: 30px;
+}
+}
+
