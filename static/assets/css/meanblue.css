@@ -4835,11 +4835,6 @@ article>h2 {
     position: relative;
 }
 
-.coverb {
-    padding: 30px;
-    
-
-}
 
 .section-title span {
     position: absolute;
@@ -4849,7 +4844,7 @@ article>h2 {
     right: 0;
     z-index: 1;
     font-weight: 700;
-    font-size: 52px;
+    font-size: 15px;
     text-transform: uppercase;
     line-height: 0;
     padding-bottom: 30px;
