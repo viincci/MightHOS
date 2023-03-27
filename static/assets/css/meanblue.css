@@ -6549,18 +6549,6 @@ aside.promo-banner.blue-promo-banner>div {
 .gatsby-image-wrapper [data-placeholder-image] {
     opacity: 0 !important
 }
-/* Default styles */
-.coverb {
-  font-size: 24px;
-}
-
-/* Styles for screens smaller than 768px */
-@media screen and (max-width: 767px) {
-  .coverb {
-    font-size: 18px;
-  }
-}
-/* Default styles */
 
 /* Styles for screens smaller than 768px */
 @media screen and (max-width: 767px) {
